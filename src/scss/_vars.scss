@@ -1,5 +1,17 @@
-// COLORS
+
 :root {
+  // цвета
   --color-black: #000;
   --color-white: #fff;
+  --color-eastbay:#484283;
+
+  //отступы
+  --grid-gap:20px;
+  --main-offset:40px;
+
+  //шрифты
+  --font-family:"Intro",sans-serif;
+  --midle-high-font:700 30px / 140% var(--font-family);
+  --small-font:400 14px / 140% var(--font-family);
+
 }
